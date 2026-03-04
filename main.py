@@ -1,4 +1,4 @@
-import OS
+import os as OS
 
 
 # we are using OS module to get the directories
