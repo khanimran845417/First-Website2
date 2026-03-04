@@ -7,3 +7,4 @@ print(OS.listdir())
 
 print(OS.getcwd())
 print(OS.chdir("/"))
+print(OS.get_blocking())
